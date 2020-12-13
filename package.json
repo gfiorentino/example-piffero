@@ -5,11 +5,11 @@
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1",
-    "piffero": "^1.0.4"
+    "piffero": "^1.0.6"
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \" no test specified\"" 
+    "test": "echo \" no test specified\""
   },
   "author": "",
   "license": "ISC"
