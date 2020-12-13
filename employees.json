@@ -1,0 +1,26 @@
+{
+   "employees":[
+      {
+         "name":"John",
+         "surname":"Doe",
+         "phoneNumbers":[
+            {
+               "type":"iPhone",
+               "number":"0123-4567-8888",
+               "test":false
+            },
+            {
+               "type":"home",
+               "number":"0123-4567-8910",
+               "test":true
+            }
+         ]
+      },
+      {
+         "name":"Joe",
+         "surname":"Black",
+         "phoneNumbers":[
+         ]
+      }
+   ]
+}
